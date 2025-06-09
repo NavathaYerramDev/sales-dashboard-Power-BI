@@ -1,4 +1,6 @@
 # 🚀 **Sales Dashboard - Power BI** 📊
+![image](https://github.com/user-attachments/assets/a8480445-4e21-4d60-857c-229e647d29dd)
+
 
 ## 🎯 **Overview**
 This project showcases a **Power BI Sales Dashboard**, delivering insights into sales trends, profitability, and customer segments. The dashboard transforms raw data into **interactive visualizations**, making data-driven decision-making effortless! 
