@@ -18,7 +18,6 @@ This project showcases a **Power BI Sales Dashboard**, delivering insights into 
 - **Regional & Sub-category Breakdown** – 🏢 Treemap visualizing product performance by area
 
 ## 🖼️ **Dashboard Preview**
-![Sales Dashboard](dashboard_image.png)  
 ![image](https://github.com/user-attachments/assets/a8480445-4e21-4d60-857c-229e647d29dd)
 
 ## 🎨 **What Makes This Dashboard Unique?**
